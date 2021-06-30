@@ -193,11 +193,11 @@ q{
     transition: .5s;
 }
 [data-anime = "left"]{
-    transform: translateX(-5em);
+    transform: translateX(0);
     
 }
 [data-anime = "right"]{
-    transform: translateX(5em);
+    transform: translateX(0);
     
 }
 
@@ -308,11 +308,4 @@ header{
     }
 
 
-}
-
-.secoes{
-    padding: 0 !important;
-    margin: 0 !important;
-    box-sizing: border-box;
-    border: 1px solid green;
 }
