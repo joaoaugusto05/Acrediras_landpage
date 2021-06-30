@@ -11,6 +11,7 @@ body {
     
 }
 html{
+    width: 100%;
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
@@ -144,7 +145,7 @@ html{
 .secoes{
 padding: 1em;
 max-width: 100%;
-
+overflow-x: hidden;
 
 }
 .secoes h1{
